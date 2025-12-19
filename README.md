@@ -8,4 +8,4 @@ phira：[phira](https://phira.moe/user/935482 "phira")
 洛谷：[洛谷](https://www.luogu.com.cn/user/917479  "luogu")
 <br><br>
 ## 有关phigros铺面
-可以在[phi铺面](./phi铺面)文件夹内查看
+可以在[phi铺面](./Phi铺面)文件夹内查看
