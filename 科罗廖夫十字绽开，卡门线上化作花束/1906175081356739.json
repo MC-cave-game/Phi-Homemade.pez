@@ -18,7 +18,7 @@
       "offset" : 768,
       "song" : "1906175081356739.mp3"
    },
-   "chartTime" : 76057.872167599708,
+   "chartTime" : 77078.569901399707,
    "judgeLineGroup" : [ "Default" ],
    "judgeLineList" : [
       {
@@ -8859,6 +8859,19 @@
                "yOffset" : 0.0
             },
             {
+               "above" : 2,
+               "alpha" : 255,
+               "endTime" : [ 198, 0, 1 ],
+               "isFake" : 0,
+               "positionX" : -450.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 198, 0, 1 ],
+               "type" : 4,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
                "above" : 1,
                "alpha" : 255,
                "endTime" : [ 198, 1, 4 ],
@@ -8868,6 +8881,32 @@
                "speed" : 1.0,
                "startTime" : [ 198, 1, 4 ],
                "type" : 1,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 2,
+               "alpha" : 255,
+               "endTime" : [ 198, 1, 4 ],
+               "isFake" : 0,
+               "positionX" : -450.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 198, 1, 4 ],
+               "type" : 4,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 2,
+               "alpha" : 255,
+               "endTime" : [ 198, 1, 2 ],
+               "isFake" : 0,
+               "positionX" : -450.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 198, 1, 2 ],
+               "type" : 4,
                "visibleTime" : 999999.0,
                "yOffset" : 0.0
             },
@@ -8885,7 +8924,7 @@
                "yOffset" : 0.0
             },
             {
-               "above" : 1,
+               "above" : 2,
                "alpha" : 255,
                "endTime" : [ 199, 0, 1 ],
                "isFake" : 0,
@@ -8893,6 +8932,435 @@
                "size" : 1.0,
                "speed" : 1.0,
                "startTime" : [ 199, 0, 1 ],
+               "type" : 4,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 2,
+               "alpha" : 255,
+               "endTime" : [ 199, 1, 4 ],
+               "isFake" : 0,
+               "positionX" : 300.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 199, 1, 4 ],
+               "type" : 4,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 1,
+               "alpha" : 255,
+               "endTime" : [ 199, 1, 2 ],
+               "isFake" : 0,
+               "positionX" : -375.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 199, 1, 2 ],
+               "type" : 1,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 2,
+               "alpha" : 255,
+               "endTime" : [ 199, 1, 2 ],
+               "isFake" : 0,
+               "positionX" : 300.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 199, 1, 2 ],
+               "type" : 4,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 1,
+               "alpha" : 255,
+               "endTime" : [ 200, 0, 1 ],
+               "isFake" : 0,
+               "positionX" : -225.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 200, 0, 1 ],
+               "type" : 1,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 1,
+               "alpha" : 255,
+               "endTime" : [ 200, 0, 1 ],
+               "isFake" : 0,
+               "positionX" : 225.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 200, 0, 1 ],
+               "type" : 1,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 2,
+               "alpha" : 255,
+               "endTime" : [ 200, 0, 1 ],
+               "isFake" : 0,
+               "positionX" : -225.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 200, 0, 1 ],
+               "type" : 4,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 2,
+               "alpha" : 255,
+               "endTime" : [ 200, 0, 1 ],
+               "isFake" : 0,
+               "positionX" : 225.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 200, 0, 1 ],
+               "type" : 4,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 2,
+               "alpha" : 255,
+               "endTime" : [ 200, 1, 2 ],
+               "isFake" : 0,
+               "positionX" : -450.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 200, 1, 2 ],
+               "type" : 4,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 2,
+               "alpha" : 255,
+               "endTime" : [ 200, 1, 2 ],
+               "isFake" : 0,
+               "positionX" : 450.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 200, 1, 2 ],
+               "type" : 4,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 2,
+               "alpha" : 255,
+               "endTime" : [ 200, 3, 4 ],
+               "isFake" : 0,
+               "positionX" : 450.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 200, 3, 4 ],
+               "type" : 4,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 2,
+               "alpha" : 255,
+               "endTime" : [ 200, 3, 4 ],
+               "isFake" : 0,
+               "positionX" : -450.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 200, 3, 4 ],
+               "type" : 4,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 2,
+               "alpha" : 255,
+               "endTime" : [ 201, 0, 1 ],
+               "isFake" : 0,
+               "positionX" : 525.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 201, 0, 1 ],
+               "type" : 4,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 2,
+               "alpha" : 255,
+               "endTime" : [ 201, 0, 1 ],
+               "isFake" : 0,
+               "positionX" : -225.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 201, 0, 1 ],
+               "type" : 4,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 2,
+               "alpha" : 255,
+               "endTime" : [ 201, 1, 4 ],
+               "isFake" : 0,
+               "positionX" : -225.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 201, 1, 4 ],
+               "type" : 4,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 2,
+               "alpha" : 255,
+               "endTime" : [ 201, 1, 4 ],
+               "isFake" : 0,
+               "positionX" : 525.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 201, 1, 4 ],
+               "type" : 4,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 2,
+               "alpha" : 255,
+               "endTime" : [ 201, 1, 2 ],
+               "isFake" : 0,
+               "positionX" : 225.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 201, 1, 2 ],
+               "type" : 4,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 2,
+               "alpha" : 255,
+               "endTime" : [ 201, 1, 2 ],
+               "isFake" : 0,
+               "positionX" : -450.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 201, 1, 2 ],
+               "type" : 4,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 1,
+               "alpha" : 255,
+               "endTime" : [ 202, 0, 1 ],
+               "isFake" : 0,
+               "positionX" : 375.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 202, 0, 1 ],
+               "type" : 1,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 2,
+               "alpha" : 255,
+               "endTime" : [ 202, 0, 1 ],
+               "isFake" : 0,
+               "positionX" : -375.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 202, 0, 1 ],
+               "type" : 4,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 1,
+               "alpha" : 255,
+               "endTime" : [ 202, 1, 4 ],
+               "isFake" : 0,
+               "positionX" : 150.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 202, 1, 4 ],
+               "type" : 1,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 2,
+               "alpha" : 255,
+               "endTime" : [ 202, 1, 4 ],
+               "isFake" : 0,
+               "positionX" : -375.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 202, 1, 4 ],
+               "type" : 4,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 2,
+               "alpha" : 255,
+               "endTime" : [ 202, 1, 2 ],
+               "isFake" : 0,
+               "positionX" : -375.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 202, 1, 2 ],
+               "type" : 4,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 2,
+               "alpha" : 255,
+               "endTime" : [ 202, 1, 2 ],
+               "isFake" : 0,
+               "positionX" : 225.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 202, 1, 2 ],
+               "type" : 4,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 1,
+               "alpha" : 255,
+               "endTime" : [ 202, 3, 4 ],
+               "isFake" : 0,
+               "positionX" : -300.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 202, 3, 4 ],
+               "type" : 1,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 2,
+               "alpha" : 255,
+               "endTime" : [ 202, 3, 4 ],
+               "isFake" : 0,
+               "positionX" : 225.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 202, 3, 4 ],
+               "type" : 4,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 1,
+               "alpha" : 255,
+               "endTime" : [ 203, 0, 1 ],
+               "isFake" : 0,
+               "positionX" : -450.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 203, 0, 1 ],
+               "type" : 1,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 2,
+               "alpha" : 255,
+               "endTime" : [ 203, 0, 1 ],
+               "isFake" : 0,
+               "positionX" : 225.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 203, 0, 1 ],
+               "type" : 4,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 1,
+               "alpha" : 255,
+               "endTime" : [ 203, 1, 4 ],
+               "isFake" : 0,
+               "positionX" : 300.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 203, 1, 4 ],
+               "type" : 1,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 1,
+               "alpha" : 255,
+               "endTime" : [ 203, 1, 2 ],
+               "isFake" : 0,
+               "positionX" : -300.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 203, 1, 2 ],
+               "type" : 1,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 1,
+               "alpha" : 255,
+               "endTime" : [ 203, 1, 2 ],
+               "isFake" : 0,
+               "positionX" : 225.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 203, 1, 2 ],
+               "type" : 1,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 2,
+               "alpha" : 255,
+               "endTime" : [ 203, 1, 2 ],
+               "isFake" : 0,
+               "positionX" : -300.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 203, 1, 2 ],
+               "type" : 4,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 2,
+               "alpha" : 255,
+               "endTime" : [ 203, 1, 2 ],
+               "isFake" : 0,
+               "positionX" : 225.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 203, 1, 2 ],
+               "type" : 4,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 1,
+               "alpha" : 255,
+               "endTime" : [ 203, 3, 4 ],
+               "isFake" : 0,
+               "positionX" : 375.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 203, 3, 4 ],
                "type" : 1,
                "visibleTime" : 999999.0,
                "yOffset" : 0.0
@@ -9585,9 +10053,126 @@
                "type" : 2,
                "visibleTime" : 999999.0,
                "yOffset" : 0.0
+            },
+            {
+               "above" : 1,
+               "alpha" : 255,
+               "endTime" : [ 199, 1, 2 ],
+               "isFake" : 0,
+               "positionX" : 300.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 199, 0, 1 ],
+               "type" : 2,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 1,
+               "alpha" : 255,
+               "endTime" : [ 200, 3, 4 ],
+               "isFake" : 0,
+               "positionX" : -450.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 200, 1, 2 ],
+               "type" : 2,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 1,
+               "alpha" : 255,
+               "endTime" : [ 200, 3, 4 ],
+               "isFake" : 0,
+               "positionX" : 450.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 200, 1, 2 ],
+               "type" : 2,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 1,
+               "alpha" : 255,
+               "endTime" : [ 201, 1, 4 ],
+               "isFake" : 0,
+               "positionX" : 525.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 201, 0, 1 ],
+               "type" : 2,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 1,
+               "alpha" : 255,
+               "endTime" : [ 201, 1, 4 ],
+               "isFake" : 0,
+               "positionX" : -225.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 201, 0, 1 ],
+               "type" : 2,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 1,
+               "alpha" : 255,
+               "endTime" : [ 201, 3, 4 ],
+               "isFake" : 0,
+               "positionX" : -450.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 201, 1, 2 ],
+               "type" : 2,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 1,
+               "alpha" : 255,
+               "endTime" : [ 201, 3, 4 ],
+               "isFake" : 0,
+               "positionX" : 225.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 201, 1, 2 ],
+               "type" : 2,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 1,
+               "alpha" : 255,
+               "endTime" : [ 202, 1, 2 ],
+               "isFake" : 0,
+               "positionX" : -375.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 202, 0, 1 ],
+               "type" : 2,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 1,
+               "alpha" : 255,
+               "endTime" : [ 203, 0, 1 ],
+               "isFake" : 0,
+               "positionX" : 225.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 202, 1, 2 ],
+               "type" : 2,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
             }
          ],
-         "numOfNotes" : 433,
+         "numOfNotes" : 469,
          "posControl" : [
             {
                "easing" : 1,
@@ -10416,6 +11001,30 @@
                      "linkgroup" : 0,
                      "start" : -700.0,
                      "startTime" : [ 195, 1, 4 ]
+                  },
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 4,
+                     "end" : 0.0,
+                     "endTime" : [ 200, 1, 4 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 200, 0, 1 ]
+                  },
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 9,
+                     "end" : 200.0,
+                     "endTime" : [ 205, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 204, 0, 1 ]
                   }
                ],
                "moveYEvents" : [
@@ -11217,7 +11826,7 @@
                      "easingLeft" : 0.0,
                      "easingRight" : 1.0,
                      "easingType" : 4,
-                     "end" : 0.0,
+                     "end" : -100.0,
                      "endTime" : [ 188, 3, 4 ],
                      "linkgroup" : 0,
                      "start" : 475.0,
@@ -11229,10 +11838,10 @@
                      "easingLeft" : 0.0,
                      "easingRight" : 1.0,
                      "easingType" : 4,
-                     "end" : 0.0,
+                     "end" : -100.0,
                      "endTime" : [ 192, 1, 2 ],
                      "linkgroup" : 0,
-                     "start" : 0.0,
+                     "start" : -100.0,
                      "startTime" : [ 192, 0, 1 ]
                   },
                   {
@@ -11246,6 +11855,30 @@
                      "linkgroup" : 0,
                      "start" : -300.0,
                      "startTime" : [ 195, 1, 4 ]
+                  },
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 4,
+                     "end" : -300.0,
+                     "endTime" : [ 200, 1, 4 ],
+                     "linkgroup" : 0,
+                     "start" : -300.0,
+                     "startTime" : [ 200, 0, 1 ]
+                  },
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 4,
+                     "end" : -300.0,
+                     "endTime" : [ 205, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : -300.0,
+                     "startTime" : [ 204, 0, 1 ]
                   }
                ],
                "rotateEvents" : [
@@ -11512,6 +12145,18 @@
                      "linkgroup" : 0,
                      "start" : -0.0,
                      "startTime" : [ 194, 0, 1 ]
+                  },
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 8,
+                     "end" : -0.0,
+                     "endTime" : [ 200, 1, 4 ],
+                     "linkgroup" : 0,
+                     "start" : -0.0,
+                     "startTime" : [ 200, 0, 1 ]
                   }
                ],
                "speedEvents" : [
@@ -11647,6 +12292,20 @@
                      "linkgroup" : 0,
                      "start" : 12.0,
                      "startTime" : [ 192, 0, 1 ]
+                  },
+                  {
+                     "end" : 8.0,
+                     "endTime" : [ 196, 1, 4 ],
+                     "linkgroup" : 0,
+                     "start" : 12.0,
+                     "startTime" : [ 195, 3, 4 ]
+                  },
+                  {
+                     "end" : 11.0,
+                     "endTime" : [ 200, 1, 4 ],
+                     "linkgroup" : 0,
+                     "start" : 11.0,
+                     "startTime" : [ 200, 0, 1 ]
                   }
                ]
             }
@@ -12525,6 +13184,32 @@
                "size" : 1.0,
                "speed" : 1.0,
                "startTime" : [ 191, 0, 1 ],
+               "type" : 2,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 1,
+               "alpha" : 255,
+               "endTime" : [ 205, 0, 1 ],
+               "isFake" : 0,
+               "positionX" : -450.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 204, 0, 1 ],
+               "type" : 2,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 1,
+               "alpha" : 255,
+               "endTime" : [ 205, 0, 1 ],
+               "isFake" : 0,
+               "positionX" : 300.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 204, 0, 1 ],
                "type" : 2,
                "visibleTime" : 999999.0,
                "yOffset" : 0.0
@@ -13431,6 +14116,30 @@
                      "linkgroup" : 0,
                      "start" : -700.0,
                      "startTime" : [ 195, 1, 2 ]
+                  },
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 4,
+                     "end" : 0.0,
+                     "endTime" : [ 200, 1, 4 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 200, 0, 1 ]
+                  },
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 9,
+                     "end" : 200.0,
+                     "endTime" : [ 205, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 204, 0, 1 ]
                   }
                ],
                "moveYEvents" : [
@@ -14309,6 +15018,30 @@
                      "linkgroup" : 0,
                      "start" : -300.0,
                      "startTime" : [ 195, 1, 2 ]
+                  },
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 4,
+                     "end" : -300.0,
+                     "endTime" : [ 200, 1, 4 ],
+                     "linkgroup" : 0,
+                     "start" : -300.0,
+                     "startTime" : [ 200, 0, 1 ]
+                  },
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 4,
+                     "end" : -300.0,
+                     "endTime" : [ 205, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : -300.0,
+                     "startTime" : [ 204, 0, 1 ]
                   }
                ],
                "rotateEvents" : [
@@ -14623,6 +15356,18 @@
                      "linkgroup" : 0,
                      "start" : -0.0,
                      "startTime" : [ 194, 1, 4 ]
+                  },
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 8,
+                     "end" : -0.0,
+                     "endTime" : [ 200, 1, 4 ],
+                     "linkgroup" : 0,
+                     "start" : -0.0,
+                     "startTime" : [ 200, 0, 1 ]
                   }
                ],
                "speedEvents" : [
@@ -14751,6 +15496,20 @@
                      "linkgroup" : 0,
                      "start" : 12.0,
                      "startTime" : [ 192, 0, 1 ]
+                  },
+                  {
+                     "end" : 8.0,
+                     "endTime" : [ 196, 1, 2 ],
+                     "linkgroup" : 0,
+                     "start" : 12.0,
+                     "startTime" : [ 196, 0, 1 ]
+                  },
+                  {
+                     "end" : 11.0,
+                     "endTime" : [ 200, 1, 4 ],
+                     "linkgroup" : 0,
+                     "start" : 11.0,
+                     "startTime" : [ 200, 0, 1 ]
                   }
                ]
             }
@@ -15387,6 +16146,84 @@
                "yOffset" : 0.0
             },
             {
+               "above" : 2,
+               "alpha" : 255,
+               "endTime" : [ 204, 1, 4 ],
+               "isFake" : 0,
+               "positionX" : -450.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 204, 1, 4 ],
+               "type" : 4,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 2,
+               "alpha" : 255,
+               "endTime" : [ 204, 1, 4 ],
+               "isFake" : 0,
+               "positionX" : 300.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 204, 1, 4 ],
+               "type" : 4,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 2,
+               "alpha" : 255,
+               "endTime" : [ 204, 1, 2 ],
+               "isFake" : 0,
+               "positionX" : -450.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 204, 1, 2 ],
+               "type" : 4,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 2,
+               "alpha" : 255,
+               "endTime" : [ 204, 1, 2 ],
+               "isFake" : 0,
+               "positionX" : 300.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 204, 1, 2 ],
+               "type" : 4,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 2,
+               "alpha" : 255,
+               "endTime" : [ 204, 3, 4 ],
+               "isFake" : 0,
+               "positionX" : -450.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 204, 3, 4 ],
+               "type" : 4,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
+               "above" : 2,
+               "alpha" : 255,
+               "endTime" : [ 204, 3, 4 ],
+               "isFake" : 0,
+               "positionX" : 300.0,
+               "size" : 1.0,
+               "speed" : 1.0,
+               "startTime" : [ 204, 3, 4 ],
+               "type" : 4,
+               "visibleTime" : 999999.0,
+               "yOffset" : 0.0
+            },
+            {
                "above" : 1,
                "alpha" : 255,
                "endTime" : [ 26, 0, 1 ],
@@ -15452,7 +16289,7 @@
                "yOffset" : 0.0
             }
          ],
-         "numOfNotes" : 47,
+         "numOfNotes" : 53,
          "posControl" : [
             {
                "easing" : 1,
@@ -17014,6 +17851,13 @@
                      "linkgroup" : 0,
                      "start" : 12.0,
                      "startTime" : [ 193, 1, 2 ]
+                  },
+                  {
+                     "end" : 8.0,
+                     "endTime" : [ 196, 3, 4 ],
+                     "linkgroup" : 0,
+                     "start" : 12.0,
+                     "startTime" : [ 196, 1, 4 ]
                   }
                ]
             }
@@ -18505,10 +19349,10 @@
                      "easingLeft" : 0.0,
                      "easingRight" : 1.0,
                      "easingType" : 4,
-                     "end" : 0.0,
+                     "end" : -100.0,
                      "endTime" : [ 190, 1, 2 ],
                      "linkgroup" : 0,
-                     "start" : 0.0,
+                     "start" : -100.0,
                      "startTime" : [ 190, 0, 1 ]
                   }
                ],
@@ -31848,18 +32692,6 @@
                      "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
                      "easingLeft" : 0.0,
                      "easingRight" : 1.0,
-                     "easingType" : 8,
-                     "end" : 0,
-                     "endTime" : [ 192, 1, 2 ],
-                     "linkgroup" : 0,
-                     "start" : 200,
-                     "startTime" : [ 192, 0, 1 ]
-                  },
-                  {
-                     "bezier" : 0,
-                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
-                     "easingLeft" : 0.0,
-                     "easingRight" : 1.0,
                      "easingType" : 9,
                      "end" : 200,
                      "endTime" : [ 193, 3, 4 ],
@@ -32391,23 +33223,11 @@
                      "easingLeft" : 0.0,
                      "easingRight" : 1.0,
                      "easingType" : 9,
-                     "end" : -100.0,
+                     "end" : -0.0,
                      "endTime" : [ 191, 0, 1 ],
                      "linkgroup" : 0,
-                     "start" : -100.0,
+                     "start" : -0.0,
                      "startTime" : [ 190, 0, 1 ]
-                  },
-                  {
-                     "bezier" : 0,
-                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
-                     "easingLeft" : 0.0,
-                     "easingRight" : 1.0,
-                     "easingType" : 8,
-                     "end" : -500.0,
-                     "endTime" : [ 191, 3, 4 ],
-                     "linkgroup" : 0,
-                     "start" : -100.0,
-                     "startTime" : [ 191, 0, 1 ]
                   },
                   {
                      "bezier" : 0,
@@ -32752,18 +33572,6 @@
                      "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
                      "easingLeft" : 0.0,
                      "easingRight" : 1.0,
-                     "easingType" : 9,
-                     "end" : 0.0,
-                     "endTime" : [ 191, 3, 4 ],
-                     "linkgroup" : 0,
-                     "start" : 300.0,
-                     "startTime" : [ 191, 0, 1 ]
-                  },
-                  {
-                     "bezier" : 0,
-                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
-                     "easingLeft" : 0.0,
-                     "easingRight" : 1.0,
                      "easingType" : 16,
                      "end" : 300.0,
                      "endTime" : [ 194, 1, 2 ],
@@ -32880,6 +33688,18 @@
                      "linkgroup" : 0,
                      "start" : 0.0,
                      "startTime" : [ 145, 0, 1 ]
+                  },
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 4,
+                     "end" : 360.0,
+                     "endTime" : [ 193, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 191, 3, 4 ]
                   }
                ],
                "speedEvents" : [
@@ -34269,10 +35089,10 @@
                   "easingLeft" : 0.0,
                   "easingRight" : 1.0,
                   "easingType" : 1,
-                  "end" : "舒展了",
+                  "end" : "舒展了双臂 再转个圈",
                   "endTime" : [ 191, 3, 4 ],
                   "linkgroup" : 0,
-                  "start" : "舒展了",
+                  "start" : "舒展了双臂 再转个圈",
                   "startTime" : [ 190, 0, 1 ]
                },
                {
@@ -34759,30 +35579,6 @@
                      "linkgroup" : 0,
                      "start" : 255,
                      "startTime" : [ 189, 0, 1 ]
-                  },
-                  {
-                     "bezier" : 0,
-                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
-                     "easingLeft" : 0.0,
-                     "easingRight" : 1.0,
-                     "easingType" : 9,
-                     "end" : 200,
-                     "endTime" : [ 191, 3, 4 ],
-                     "linkgroup" : 0,
-                     "start" : 200,
-                     "startTime" : [ 191, 0, 1 ]
-                  },
-                  {
-                     "bezier" : 0,
-                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
-                     "easingLeft" : 0.0,
-                     "easingRight" : 1.0,
-                     "easingType" : 8,
-                     "end" : 0,
-                     "endTime" : [ 192, 1, 2 ],
-                     "linkgroup" : 0,
-                     "start" : 200,
-                     "startTime" : [ 192, 0, 1 ]
                   },
                   {
                      "bezier" : 0,
@@ -35578,18 +36374,6 @@
                   "easingLeft" : 0.0,
                   "easingRight" : 1.0,
                   "easingType" : 1,
-                  "end" : "双臂",
-                  "endTime" : [ 191, 3, 4 ],
-                  "linkgroup" : 0,
-                  "start" : "双臂",
-                  "startTime" : [ 191, 0, 1 ]
-               },
-               {
-                  "bezier" : 0,
-                  "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
-                  "easingLeft" : 0.0,
-                  "easingRight" : 1.0,
-                  "easingType" : 1,
                   "end" : "20MHz\n\n\n40MHz",
                   "endTime" : [ 220, 0, 1 ],
                   "linkgroup" : 0,
@@ -35764,30 +36548,6 @@
                      "easingRight" : 1.0,
                      "easingType" : 8,
                      "end" : 200,
-                     "endTime" : [ 193, 0, 1 ],
-                     "linkgroup" : 0,
-                     "start" : 200,
-                     "startTime" : [ 191, 3, 4 ]
-                  },
-                  {
-                     "bezier" : 0,
-                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
-                     "easingLeft" : 0.0,
-                     "easingRight" : 1.0,
-                     "easingType" : 8,
-                     "end" : 0,
-                     "endTime" : [ 193, 3, 4 ],
-                     "linkgroup" : 0,
-                     "start" : 0,
-                     "startTime" : [ 193, 1, 2 ]
-                  },
-                  {
-                     "bezier" : 0,
-                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
-                     "easingLeft" : 0.0,
-                     "easingRight" : 1.0,
-                     "easingType" : 8,
-                     "end" : 200,
                      "endTime" : [ 216, 0, 1 ],
                      "linkgroup" : 0,
                      "start" : 0,
@@ -35942,42 +36702,6 @@
                      "linkgroup" : 0,
                      "start" : 0.0,
                      "startTime" : [ 0, 0, 1 ]
-                  },
-                  {
-                     "bezier" : 0,
-                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
-                     "easingLeft" : 0.0,
-                     "easingRight" : 1.0,
-                     "easingType" : 9,
-                     "end" : 120.0,
-                     "endTime" : [ 192, 1, 4 ],
-                     "linkgroup" : 0,
-                     "start" : 0.0,
-                     "startTime" : [ 191, 3, 4 ]
-                  },
-                  {
-                     "bezier" : 0,
-                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
-                     "easingLeft" : 0.0,
-                     "easingRight" : 1.0,
-                     "easingType" : 1,
-                     "end" : 240.0,
-                     "endTime" : [ 192, 3, 4 ],
-                     "linkgroup" : 0,
-                     "start" : 120.0,
-                     "startTime" : [ 192, 1, 4 ]
-                  },
-                  {
-                     "bezier" : 0,
-                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
-                     "easingLeft" : 0.0,
-                     "easingRight" : 1.0,
-                     "easingType" : 8,
-                     "end" : 360.0,
-                     "endTime" : [ 193, 1, 4 ],
-                     "linkgroup" : 0,
-                     "start" : 240.0,
-                     "startTime" : [ 192, 3, 4 ]
                   }
                ],
                "speedEvents" : [
@@ -36208,18 +36932,6 @@
                   "linkgroup" : 0,
                   "start" : "祝",
                   "startTime" : [ 187, 0, 1 ]
-               },
-               {
-                  "bezier" : 0,
-                  "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
-                  "easingLeft" : 0.0,
-                  "easingRight" : 1.0,
-                  "easingType" : 1,
-                  "end" : "再转个圈",
-                  "endTime" : [ 193, 0, 1 ],
-                  "linkgroup" : 0,
-                  "start" : "再转个圈",
-                  "startTime" : [ 191, 3, 4 ]
                },
                {
                   "bezier" : 0,
