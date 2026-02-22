@@ -18,7 +18,7 @@
       "offset" : 768,
       "song" : "1906175081356739.mp3"
    },
-   "chartTime" : 103291.90536869984,
+   "chartTime" : 103876.72690939988,
    "judgeLineGroup" : [ "Default" ],
    "judgeLineList" : [
       {
@@ -55737,11 +55737,7 @@
                      "startTime" : [ 0, 0, 1 ]
                   }
                ]
-            },
-            null,
-            null,
-            null,
-            null
+            }
          ],
          "extended" : {
             "inclineEvents" : [
@@ -55755,34 +55751,6 @@
                   "endTime" : [ 1, 0, 1 ],
                   "linkgroup" : 0,
                   "start" : 0.0,
-                  "startTime" : [ 0, 0, 1 ]
-               }
-            ],
-            "scaleXEvents" : [
-               {
-                  "bezier" : 0,
-                  "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
-                  "easingLeft" : 0.0,
-                  "easingRight" : 1.0,
-                  "easingType" : 1,
-                  "end" : 0.20999999999999999,
-                  "endTime" : [ 1, 0, 1 ],
-                  "linkgroup" : 0,
-                  "start" : 0.20999999999999999,
-                  "startTime" : [ 0, 0, 1 ]
-               }
-            ],
-            "scaleYEvents" : [
-               {
-                  "bezier" : 0,
-                  "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
-                  "easingLeft" : 0.0,
-                  "easingRight" : 1.0,
-                  "easingType" : 1,
-                  "end" : 0.20999999999999999,
-                  "endTime" : [ 1, 0, 1 ],
-                  "linkgroup" : 0,
-                  "start" : 0.20999999999999999,
                   "startTime" : [ 0, 0, 1 ]
                }
             ]
