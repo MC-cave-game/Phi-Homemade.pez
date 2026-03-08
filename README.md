@@ -8,6 +8,9 @@
 > - [x] Curly Wurly（万达广场）
 > - [x] Trippy Love
 > - [x] 科罗廖夫十字绽开，卡门线上化作花束
+> - [ ] [Re]Birth
+> - [ ] Revelation
+> - [ ] Hiraeth
 <br><br>
 ## 食用方法
 找到对应谱面的文件夹，选择.pez后缀的文件下载。成功后导入到Phira就可以啦！
