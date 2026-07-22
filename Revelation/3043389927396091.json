@@ -1,0 +1,5723 @@
+{
+   "BPMList" : [
+      {
+         "bpm" : 180.0,
+         "startTime" : [ 0, 0, 1 ]
+      }
+   ],
+   "META" : {
+      "RPEVersion" : 170,
+      "background" : "3043389927396091.jpg",
+      "charter" : "华夫huanly",
+      "composer" : "Xeudo Code & LucaProject & Neptune XI",
+      "duration" : 167.23199500000001,
+      "id" : "3043389927396091",
+      "illustration" : "poca_p0ca",
+      "level" : "AT Lv.16",
+      "name" : "Revelation",
+      "offset" : 100,
+      "song" : "3043389927396091.mp3"
+   },
+   "chartTime" : 601.82224250000036,
+   "judgeLineGroup" : [ "Default", "落键", "表演" ],
+   "judgeLineList" : [
+      {
+         "Group" : 1,
+         "Name" : "主要",
+         "Texture" : "line.png",
+         "alphaControl" : [
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 0.0
+            },
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 9999999.0
+            }
+         ],
+         "anchor" : [ 0.5, 0.5 ],
+         "bpmfactor" : 1.0,
+         "eventLayers" : [
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "speedEvents" : [
+                  {
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 10.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 10.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            }
+         ],
+         "extended" : {
+            "inclineEvents" : [
+               {
+                  "bezier" : 0,
+                  "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                  "easingLeft" : 0.0,
+                  "easingRight" : 1.0,
+                  "easingType" : 0,
+                  "end" : 0.0,
+                  "endTime" : [ 1, 0, 1 ],
+                  "linkgroup" : 0,
+                  "start" : 0.0,
+                  "startTime" : [ 0, 0, 1 ]
+               }
+            ]
+         },
+         "father" : -1,
+         "isCover" : 1,
+         "isGif" : false,
+         "numOfNotes" : 0,
+         "posControl" : [
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "rotateWithFather" : true,
+         "sizeControl" : [
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "skewControl" : [
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 9999999.0
+            }
+         ],
+         "yControl" : [
+            {
+               "easing" : 1,
+               "x" : 0.0,
+               "y" : 1.0
+            },
+            {
+               "easing" : 1,
+               "x" : 9999999.0,
+               "y" : 1.0
+            }
+         ],
+         "zOrder" : 0
+      },
+      {
+         "Group" : 1,
+         "Name" : "次要",
+         "Texture" : "line.png",
+         "alphaControl" : [
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 0.0
+            },
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 9999999.0
+            }
+         ],
+         "anchor" : [ 0.5, 0.5 ],
+         "bpmfactor" : 1.0,
+         "eventLayers" : [
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "speedEvents" : [
+                  {
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 10.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 10.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            }
+         ],
+         "extended" : {
+            "inclineEvents" : [
+               {
+                  "bezier" : 0,
+                  "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                  "easingLeft" : 0.0,
+                  "easingRight" : 1.0,
+                  "easingType" : 1,
+                  "end" : 0.0,
+                  "endTime" : [ 1, 0, 1 ],
+                  "linkgroup" : 0,
+                  "start" : 0.0,
+                  "startTime" : [ 0, 0, 1 ]
+               }
+            ]
+         },
+         "father" : -1,
+         "isCover" : 1,
+         "isGif" : false,
+         "numOfNotes" : 0,
+         "posControl" : [
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "rotateWithFather" : true,
+         "sizeControl" : [
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "skewControl" : [
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 9999999.0
+            }
+         ],
+         "yControl" : [
+            {
+               "easing" : 1,
+               "x" : 0.0,
+               "y" : 1.0
+            },
+            {
+               "easing" : 1,
+               "x" : 9999999.0,
+               "y" : 1.0
+            }
+         ],
+         "zOrder" : 0
+      },
+      {
+         "Group" : 1,
+         "Name" : "次要",
+         "Texture" : "line.png",
+         "alphaControl" : [
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 0.0
+            },
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 9999999.0
+            }
+         ],
+         "anchor" : [ 0.5, 0.5 ],
+         "bpmfactor" : 1.0,
+         "eventLayers" : [
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "speedEvents" : [
+                  {
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 10.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 10.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            }
+         ],
+         "extended" : {
+            "inclineEvents" : [
+               {
+                  "bezier" : 0,
+                  "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                  "easingLeft" : 0.0,
+                  "easingRight" : 1.0,
+                  "easingType" : 2,
+                  "end" : 0.0,
+                  "endTime" : [ 1, 0, 1 ],
+                  "linkgroup" : 0,
+                  "start" : 0.0,
+                  "startTime" : [ 0, 0, 1 ]
+               }
+            ]
+         },
+         "father" : -1,
+         "isCover" : 1,
+         "isGif" : false,
+         "numOfNotes" : 0,
+         "posControl" : [
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "rotateWithFather" : true,
+         "sizeControl" : [
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "skewControl" : [
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 9999999.0
+            }
+         ],
+         "yControl" : [
+            {
+               "easing" : 1,
+               "x" : 0.0,
+               "y" : 1.0
+            },
+            {
+               "easing" : 1,
+               "x" : 9999999.0,
+               "y" : 1.0
+            }
+         ],
+         "zOrder" : 0
+      },
+      {
+         "Group" : 1,
+         "Name" : "次要",
+         "Texture" : "line.png",
+         "alphaControl" : [
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 0.0
+            },
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 9999999.0
+            }
+         ],
+         "anchor" : [ 0.5, 0.5 ],
+         "bpmfactor" : 1.0,
+         "eventLayers" : [
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "speedEvents" : [
+                  {
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 10.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 10.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            }
+         ],
+         "extended" : {
+            "inclineEvents" : [
+               {
+                  "bezier" : 0,
+                  "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                  "easingLeft" : 0.0,
+                  "easingRight" : 1.0,
+                  "easingType" : 3,
+                  "end" : 0.0,
+                  "endTime" : [ 1, 0, 1 ],
+                  "linkgroup" : 0,
+                  "start" : 0.0,
+                  "startTime" : [ 0, 0, 1 ]
+               }
+            ]
+         },
+         "father" : -1,
+         "isCover" : 1,
+         "isGif" : false,
+         "numOfNotes" : 0,
+         "posControl" : [
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "rotateWithFather" : true,
+         "sizeControl" : [
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "skewControl" : [
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 9999999.0
+            }
+         ],
+         "yControl" : [
+            {
+               "easing" : 1,
+               "x" : 0.0,
+               "y" : 1.0
+            },
+            {
+               "easing" : 1,
+               "x" : 9999999.0,
+               "y" : 1.0
+            }
+         ],
+         "zOrder" : 0
+      },
+      {
+         "Group" : 1,
+         "Name" : "备用",
+         "Texture" : "line.png",
+         "alphaControl" : [
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 0.0
+            },
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 9999999.0
+            }
+         ],
+         "anchor" : [ 0.5, 0.5 ],
+         "bpmfactor" : 1.0,
+         "eventLayers" : [
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "speedEvents" : [
+                  {
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 10.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 10.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            }
+         ],
+         "extended" : {
+            "inclineEvents" : [
+               {
+                  "bezier" : 0,
+                  "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                  "easingLeft" : 0.0,
+                  "easingRight" : 1.0,
+                  "easingType" : 4,
+                  "end" : 0.0,
+                  "endTime" : [ 1, 0, 1 ],
+                  "linkgroup" : 0,
+                  "start" : 0.0,
+                  "startTime" : [ 0, 0, 1 ]
+               }
+            ]
+         },
+         "father" : -1,
+         "isCover" : 1,
+         "isGif" : false,
+         "numOfNotes" : 0,
+         "posControl" : [
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "rotateWithFather" : true,
+         "sizeControl" : [
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "skewControl" : [
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 9999999.0
+            }
+         ],
+         "yControl" : [
+            {
+               "easing" : 1,
+               "x" : 0.0,
+               "y" : 1.0
+            },
+            {
+               "easing" : 1,
+               "x" : 9999999.0,
+               "y" : 1.0
+            }
+         ],
+         "zOrder" : 0
+      },
+      {
+         "Group" : 1,
+         "Name" : "混用",
+         "Texture" : "line.png",
+         "alphaControl" : [
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 0.0
+            },
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 9999999.0
+            }
+         ],
+         "anchor" : [ 0.5, 0.5 ],
+         "bpmfactor" : 1.0,
+         "eventLayers" : [
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "speedEvents" : [
+                  {
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 10.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 10.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            }
+         ],
+         "extended" : {
+            "inclineEvents" : [
+               {
+                  "bezier" : 0,
+                  "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                  "easingLeft" : 0.0,
+                  "easingRight" : 1.0,
+                  "easingType" : 5,
+                  "end" : 0.0,
+                  "endTime" : [ 1, 0, 1 ],
+                  "linkgroup" : 0,
+                  "start" : 0.0,
+                  "startTime" : [ 0, 0, 1 ]
+               }
+            ]
+         },
+         "father" : -1,
+         "isCover" : 1,
+         "isGif" : false,
+         "numOfNotes" : 0,
+         "posControl" : [
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "rotateWithFather" : true,
+         "sizeControl" : [
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "skewControl" : [
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 9999999.0
+            }
+         ],
+         "yControl" : [
+            {
+               "easing" : 1,
+               "x" : 0.0,
+               "y" : 1.0
+            },
+            {
+               "easing" : 1,
+               "x" : 9999999.0,
+               "y" : 1.0
+            }
+         ],
+         "zOrder" : 0
+      },
+      {
+         "Group" : 1,
+         "Name" : "混用",
+         "Texture" : "line.png",
+         "alphaControl" : [
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 0.0
+            },
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 9999999.0
+            }
+         ],
+         "anchor" : [ 0.5, 0.5 ],
+         "bpmfactor" : 1.0,
+         "eventLayers" : [
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "speedEvents" : [
+                  {
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 10.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 10.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            }
+         ],
+         "extended" : {
+            "inclineEvents" : [
+               {
+                  "bezier" : 0,
+                  "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                  "easingLeft" : 0.0,
+                  "easingRight" : 1.0,
+                  "easingType" : 6,
+                  "end" : 0.0,
+                  "endTime" : [ 1, 0, 1 ],
+                  "linkgroup" : 0,
+                  "start" : 0.0,
+                  "startTime" : [ 0, 0, 1 ]
+               }
+            ]
+         },
+         "father" : -1,
+         "isCover" : 1,
+         "isGif" : false,
+         "numOfNotes" : 0,
+         "posControl" : [
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "rotateWithFather" : true,
+         "sizeControl" : [
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "skewControl" : [
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 9999999.0
+            }
+         ],
+         "yControl" : [
+            {
+               "easing" : 1,
+               "x" : 0.0,
+               "y" : 1.0
+            },
+            {
+               "easing" : 1,
+               "x" : 9999999.0,
+               "y" : 1.0
+            }
+         ],
+         "zOrder" : 0
+      },
+      {
+         "Group" : 2,
+         "Name" : "表演",
+         "Texture" : "line.png",
+         "alphaControl" : [
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 0.0
+            },
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 9999999.0
+            }
+         ],
+         "anchor" : [ 0.5, 0.5 ],
+         "bpmfactor" : 1.0,
+         "eventLayers" : [
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "speedEvents" : [
+                  {
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 10.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 10.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            }
+         ],
+         "extended" : {
+            "inclineEvents" : [
+               {
+                  "bezier" : 0,
+                  "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                  "easingLeft" : 0.0,
+                  "easingRight" : 1.0,
+                  "easingType" : 7,
+                  "end" : 0.0,
+                  "endTime" : [ 1, 0, 1 ],
+                  "linkgroup" : 0,
+                  "start" : 0.0,
+                  "startTime" : [ 0, 0, 1 ]
+               }
+            ]
+         },
+         "father" : -1,
+         "isCover" : 1,
+         "isGif" : false,
+         "numOfNotes" : 0,
+         "posControl" : [
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "rotateWithFather" : true,
+         "sizeControl" : [
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "skewControl" : [
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 9999999.0
+            }
+         ],
+         "yControl" : [
+            {
+               "easing" : 1,
+               "x" : 0.0,
+               "y" : 1.0
+            },
+            {
+               "easing" : 1,
+               "x" : 9999999.0,
+               "y" : 1.0
+            }
+         ],
+         "zOrder" : 0
+      },
+      {
+         "Group" : 2,
+         "Name" : "表演",
+         "Texture" : "line.png",
+         "alphaControl" : [
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 0.0
+            },
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 9999999.0
+            }
+         ],
+         "anchor" : [ 0.5, 0.5 ],
+         "bpmfactor" : 1.0,
+         "eventLayers" : [
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "speedEvents" : [
+                  {
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 10.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 10.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            }
+         ],
+         "extended" : {
+            "inclineEvents" : [
+               {
+                  "bezier" : 0,
+                  "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                  "easingLeft" : 0.0,
+                  "easingRight" : 1.0,
+                  "easingType" : 8,
+                  "end" : 0.0,
+                  "endTime" : [ 1, 0, 1 ],
+                  "linkgroup" : 0,
+                  "start" : 0.0,
+                  "startTime" : [ 0, 0, 1 ]
+               }
+            ]
+         },
+         "father" : -1,
+         "isCover" : 1,
+         "isGif" : false,
+         "numOfNotes" : 0,
+         "posControl" : [
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "rotateWithFather" : true,
+         "sizeControl" : [
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "skewControl" : [
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 9999999.0
+            }
+         ],
+         "yControl" : [
+            {
+               "easing" : 1,
+               "x" : 0.0,
+               "y" : 1.0
+            },
+            {
+               "easing" : 1,
+               "x" : 9999999.0,
+               "y" : 1.0
+            }
+         ],
+         "zOrder" : 0
+      },
+      {
+         "Group" : 2,
+         "Name" : "表演",
+         "Texture" : "line.png",
+         "alphaControl" : [
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 0.0
+            },
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 9999999.0
+            }
+         ],
+         "anchor" : [ 0.5, 0.5 ],
+         "bpmfactor" : 1.0,
+         "eventLayers" : [
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "speedEvents" : [
+                  {
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 10.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 10.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            }
+         ],
+         "extended" : {
+            "inclineEvents" : [
+               {
+                  "bezier" : 0,
+                  "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                  "easingLeft" : 0.0,
+                  "easingRight" : 1.0,
+                  "easingType" : 9,
+                  "end" : 0.0,
+                  "endTime" : [ 1, 0, 1 ],
+                  "linkgroup" : 0,
+                  "start" : 0.0,
+                  "startTime" : [ 0, 0, 1 ]
+               }
+            ]
+         },
+         "father" : -1,
+         "isCover" : 1,
+         "isGif" : false,
+         "numOfNotes" : 0,
+         "posControl" : [
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "rotateWithFather" : true,
+         "sizeControl" : [
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "skewControl" : [
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 9999999.0
+            }
+         ],
+         "yControl" : [
+            {
+               "easing" : 1,
+               "x" : 0.0,
+               "y" : 1.0
+            },
+            {
+               "easing" : 1,
+               "x" : 9999999.0,
+               "y" : 1.0
+            }
+         ],
+         "zOrder" : 0
+      },
+      {
+         "Group" : 2,
+         "Name" : "表演",
+         "Texture" : "line.png",
+         "alphaControl" : [
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 0.0
+            },
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 9999999.0
+            }
+         ],
+         "anchor" : [ 0.5, 0.5 ],
+         "bpmfactor" : 1.0,
+         "eventLayers" : [
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "speedEvents" : [
+                  {
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 10.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 10.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            }
+         ],
+         "extended" : {
+            "inclineEvents" : [
+               {
+                  "bezier" : 0,
+                  "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                  "easingLeft" : 0.0,
+                  "easingRight" : 1.0,
+                  "easingType" : 10,
+                  "end" : 0.0,
+                  "endTime" : [ 1, 0, 1 ],
+                  "linkgroup" : 0,
+                  "start" : 0.0,
+                  "startTime" : [ 0, 0, 1 ]
+               }
+            ]
+         },
+         "father" : -1,
+         "isCover" : 1,
+         "isGif" : false,
+         "numOfNotes" : 0,
+         "posControl" : [
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "rotateWithFather" : true,
+         "sizeControl" : [
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "skewControl" : [
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 9999999.0
+            }
+         ],
+         "yControl" : [
+            {
+               "easing" : 1,
+               "x" : 0.0,
+               "y" : 1.0
+            },
+            {
+               "easing" : 1,
+               "x" : 9999999.0,
+               "y" : 1.0
+            }
+         ],
+         "zOrder" : 0
+      },
+      {
+         "Group" : 2,
+         "Name" : "表演",
+         "Texture" : "line.png",
+         "alphaControl" : [
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 0.0
+            },
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 9999999.0
+            }
+         ],
+         "anchor" : [ 0.5, 0.5 ],
+         "bpmfactor" : 1.0,
+         "eventLayers" : [
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "speedEvents" : [
+                  {
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 10.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 10.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            }
+         ],
+         "extended" : {
+            "inclineEvents" : [
+               {
+                  "bezier" : 0,
+                  "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                  "easingLeft" : 0.0,
+                  "easingRight" : 1.0,
+                  "easingType" : 11,
+                  "end" : 0.0,
+                  "endTime" : [ 1, 0, 1 ],
+                  "linkgroup" : 0,
+                  "start" : 0.0,
+                  "startTime" : [ 0, 0, 1 ]
+               }
+            ]
+         },
+         "father" : -1,
+         "isCover" : 1,
+         "isGif" : false,
+         "numOfNotes" : 0,
+         "posControl" : [
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "rotateWithFather" : true,
+         "sizeControl" : [
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "skewControl" : [
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 9999999.0
+            }
+         ],
+         "yControl" : [
+            {
+               "easing" : 1,
+               "x" : 0.0,
+               "y" : 1.0
+            },
+            {
+               "easing" : 1,
+               "x" : 9999999.0,
+               "y" : 1.0
+            }
+         ],
+         "zOrder" : 0
+      },
+      {
+         "Group" : 2,
+         "Name" : "表演",
+         "Texture" : "line.png",
+         "alphaControl" : [
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 0.0
+            },
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 9999999.0
+            }
+         ],
+         "anchor" : [ 0.5, 0.5 ],
+         "bpmfactor" : 1.0,
+         "eventLayers" : [
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "speedEvents" : [
+                  {
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 10.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 10.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            }
+         ],
+         "extended" : {
+            "inclineEvents" : [
+               {
+                  "bezier" : 0,
+                  "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                  "easingLeft" : 0.0,
+                  "easingRight" : 1.0,
+                  "easingType" : 12,
+                  "end" : 0.0,
+                  "endTime" : [ 1, 0, 1 ],
+                  "linkgroup" : 0,
+                  "start" : 0.0,
+                  "startTime" : [ 0, 0, 1 ]
+               }
+            ]
+         },
+         "father" : -1,
+         "isCover" : 1,
+         "isGif" : false,
+         "numOfNotes" : 0,
+         "posControl" : [
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "rotateWithFather" : true,
+         "sizeControl" : [
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "skewControl" : [
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 9999999.0
+            }
+         ],
+         "yControl" : [
+            {
+               "easing" : 1,
+               "x" : 0.0,
+               "y" : 1.0
+            },
+            {
+               "easing" : 1,
+               "x" : 9999999.0,
+               "y" : 1.0
+            }
+         ],
+         "zOrder" : 0
+      },
+      {
+         "Group" : 2,
+         "Name" : "表演",
+         "Texture" : "line.png",
+         "alphaControl" : [
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 0.0
+            },
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 9999999.0
+            }
+         ],
+         "anchor" : [ 0.5, 0.5 ],
+         "bpmfactor" : 1.0,
+         "eventLayers" : [
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "speedEvents" : [
+                  {
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 10.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 10.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            }
+         ],
+         "extended" : {
+            "inclineEvents" : [
+               {
+                  "bezier" : 0,
+                  "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                  "easingLeft" : 0.0,
+                  "easingRight" : 1.0,
+                  "easingType" : 13,
+                  "end" : 0.0,
+                  "endTime" : [ 1, 0, 1 ],
+                  "linkgroup" : 0,
+                  "start" : 0.0,
+                  "startTime" : [ 0, 0, 1 ]
+               }
+            ]
+         },
+         "father" : -1,
+         "isCover" : 1,
+         "isGif" : false,
+         "numOfNotes" : 0,
+         "posControl" : [
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "rotateWithFather" : true,
+         "sizeControl" : [
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "skewControl" : [
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 9999999.0
+            }
+         ],
+         "yControl" : [
+            {
+               "easing" : 1,
+               "x" : 0.0,
+               "y" : 1.0
+            },
+            {
+               "easing" : 1,
+               "x" : 9999999.0,
+               "y" : 1.0
+            }
+         ],
+         "zOrder" : 0
+      },
+      {
+         "Group" : 2,
+         "Name" : "表演",
+         "Texture" : "line.png",
+         "alphaControl" : [
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 0.0
+            },
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 9999999.0
+            }
+         ],
+         "anchor" : [ 0.5, 0.5 ],
+         "bpmfactor" : 1.0,
+         "eventLayers" : [
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "speedEvents" : [
+                  {
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 10.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 10.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            }
+         ],
+         "extended" : {
+            "inclineEvents" : [
+               {
+                  "bezier" : 0,
+                  "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                  "easingLeft" : 0.0,
+                  "easingRight" : 1.0,
+                  "easingType" : 14,
+                  "end" : 0.0,
+                  "endTime" : [ 1, 0, 1 ],
+                  "linkgroup" : 0,
+                  "start" : 0.0,
+                  "startTime" : [ 0, 0, 1 ]
+               }
+            ]
+         },
+         "father" : -1,
+         "isCover" : 1,
+         "isGif" : false,
+         "numOfNotes" : 0,
+         "posControl" : [
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "rotateWithFather" : true,
+         "sizeControl" : [
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "skewControl" : [
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 9999999.0
+            }
+         ],
+         "yControl" : [
+            {
+               "easing" : 1,
+               "x" : 0.0,
+               "y" : 1.0
+            },
+            {
+               "easing" : 1,
+               "x" : 9999999.0,
+               "y" : 1.0
+            }
+         ],
+         "zOrder" : 0
+      },
+      {
+         "Group" : 2,
+         "Name" : "表演",
+         "Texture" : "line.png",
+         "alphaControl" : [
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 0.0
+            },
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 9999999.0
+            }
+         ],
+         "anchor" : [ 0.5, 0.5 ],
+         "bpmfactor" : 1.0,
+         "eventLayers" : [
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "speedEvents" : [
+                  {
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 10.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 10.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            }
+         ],
+         "extended" : {
+            "inclineEvents" : [
+               {
+                  "bezier" : 0,
+                  "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                  "easingLeft" : 0.0,
+                  "easingRight" : 1.0,
+                  "easingType" : 15,
+                  "end" : 0.0,
+                  "endTime" : [ 1, 0, 1 ],
+                  "linkgroup" : 0,
+                  "start" : 0.0,
+                  "startTime" : [ 0, 0, 1 ]
+               }
+            ]
+         },
+         "father" : -1,
+         "isCover" : 1,
+         "isGif" : false,
+         "numOfNotes" : 0,
+         "posControl" : [
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "rotateWithFather" : true,
+         "sizeControl" : [
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "skewControl" : [
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 9999999.0
+            }
+         ],
+         "yControl" : [
+            {
+               "easing" : 1,
+               "x" : 0.0,
+               "y" : 1.0
+            },
+            {
+               "easing" : 1,
+               "x" : 9999999.0,
+               "y" : 1.0
+            }
+         ],
+         "zOrder" : 0
+      },
+      {
+         "Group" : 2,
+         "Name" : "表演",
+         "Texture" : "line.png",
+         "alphaControl" : [
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 0.0
+            },
+            {
+               "alpha" : 1.0,
+               "easing" : 1,
+               "x" : 9999999.0
+            }
+         ],
+         "anchor" : [ 0.5, 0.5 ],
+         "bpmfactor" : 1.0,
+         "eventLayers" : [
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "speedEvents" : [
+                  {
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 10.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 10.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            },
+            {
+               "alphaEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveXEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "moveYEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ],
+               "rotateEvents" : [
+                  {
+                     "bezier" : 0,
+                     "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                     "easingLeft" : 0.0,
+                     "easingRight" : 1.0,
+                     "easingType" : 1,
+                     "end" : 0.0,
+                     "endTime" : [ 1, 0, 1 ],
+                     "linkgroup" : 0,
+                     "start" : 0.0,
+                     "startTime" : [ 0, 0, 1 ]
+                  }
+               ]
+            }
+         ],
+         "extended" : {
+            "inclineEvents" : [
+               {
+                  "bezier" : 0,
+                  "bezierPoints" : [ 0.0, 0.0, 0.0, 0.0 ],
+                  "easingLeft" : 0.0,
+                  "easingRight" : 1.0,
+                  "easingType" : 16,
+                  "end" : 0.0,
+                  "endTime" : [ 1, 0, 1 ],
+                  "linkgroup" : 0,
+                  "start" : 0.0,
+                  "startTime" : [ 0, 0, 1 ]
+               }
+            ]
+         },
+         "father" : -1,
+         "isCover" : 1,
+         "isGif" : false,
+         "numOfNotes" : 0,
+         "posControl" : [
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "pos" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "rotateWithFather" : true,
+         "sizeControl" : [
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "size" : 1.0,
+               "x" : 9999999.0
+            }
+         ],
+         "skewControl" : [
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 0.0
+            },
+            {
+               "easing" : 1,
+               "skew" : 0.0,
+               "x" : 9999999.0
+            }
+         ],
+         "yControl" : [
+            {
+               "easing" : 1,
+               "x" : 0.0,
+               "y" : 1.0
+            },
+            {
+               "easing" : 1,
+               "x" : 9999999.0,
+               "y" : 1.0
+            }
+         ],
+         "zOrder" : 0
+      }
+   ],
+   "multiLineString" : "0:10",
+   "multiScale" : 1.0,
+   "xybind" : true
+}
