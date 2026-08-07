@@ -9,8 +9,8 @@
 - [x] Curly Wurly（万达广场）&nbsp;&nbsp;&nbsp;[谱面文件](<./Curly Wurly（万达广场）>)&nbsp;&nbsp;&nbsp;&nbsp;[谱面详情](https://phira.moe/chart/43345)
 - [x] Trippy Love&nbsp;&nbsp;&nbsp;&nbsp;[谱面文件](<./Trippy Love>)&nbsp;&nbsp;&nbsp;&nbsp;[谱面详情](https://phira.moe/chart/30918)
 - [x] 科罗廖夫十字绽开，卡门线上化作花束&nbsp;&nbsp;&nbsp;&nbsp;[谱面文件](<./科罗廖夫十字绽开，卡门线上化作花束>)&nbsp;&nbsp;&nbsp;&nbsp;[谱面详情](https://phira.moe/chart/53127)&nbsp;&nbsp;&nbsp;&nbsp;[演示视频](https://www.bilibili.com/video/BV114fJBkEMo/)
-- [ ] [Re]Birth&nbsp;&nbsp;&nbsp;&nbsp;[谱面文件](<./[Re]Birth>)
-- [ ] *Revelation*
+- [x] [Re]Birth&nbsp;&nbsp;&nbsp;&nbsp;[谱面文件](<./[Re]Birth>)
+- [ ] Revelation&nbsp;&nbsp;&nbsp;&nbsp;[谱面文件](<./Revelation>)
 - [ ] *Hiraeth*
 <br><br>
 ## 食用方法
